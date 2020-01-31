@@ -1,6 +1,6 @@
 # Logic Conditions
 
-Logic Conditions (abbr. LC) is a mechanism that allows to evaluate cenrtain flight parameters (RC channels, switches, altitude, distance, timers, other logic conditions) and use the value of evaluated expression in different places of INAV. Currently, the result of LCs can be used in:
+Logic Conditions (abbr. LC) is a mechanism that allows to evaluate certain flight parameters (RC channels, switches, altitude, distance, timers, other logic conditions) and use the value of evaluated expression in different places of INAV. Currently, the result of LCs can be used in:
 
 * [Servo mixer](Mixer.md) to activate/deactivate certain servo mix rulers
 * [Global functions](Global%20Functions.md) to activate/deactivate system overrides
